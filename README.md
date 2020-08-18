@@ -1,4 +1,4 @@
-### Hi, I, Damir!
+<h1 align="center">Hi I'm Damir</h1>
 
 ## I'm Frontend developer!
 
