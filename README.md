@@ -3,7 +3,7 @@
 ## I'm Frontend developer!
 
 - Love frontend and learning new stuff
-- Sport, music, books, sex, drugs
+- Sport, music, books
 
 ### Tech stack:
 
