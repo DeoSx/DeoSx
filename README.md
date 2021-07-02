@@ -8,9 +8,6 @@
 ### Tech stack:
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="nodejs" width="40" height="40"/> 
